@@ -5,7 +5,7 @@
 ## about 2024
 
 - Many AWS Infrastructures build with Terraform. (IaC)
-- Few CI/CD codes wrote with Github Actions.
+- Many CI/CD codes wrote with Github Actions.
 - Use Aurora serverless (MySQL 8) and connect AWS accounts. (SQS, private connect, etc.)
-- create Lambda functions (Python, Ruby, JavaScript, Java) and ECS projects.
-- Use Datadog with Terraform and set SLI and SLO.
+- Created Lambda functions (Python, Ruby, JavaScript, Java) and ECS projects.
+- Use Datadog with Terraform IaC and set SLI and SLO.

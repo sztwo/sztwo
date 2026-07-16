@@ -1,6 +1,6 @@
 # About Me
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sztwo&show_icons=true&theme=radical&include_all_commits=true&count_private=true?show_icons=true&cache_seconds=14400)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sztwo&layout=compact&theme=radical&include_all_commits=true&count_private=true?show_icons=true&cache_seconds=14400)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=sztwo&show_icons=true&theme=radical&include_all_commits=true&count_private=true?show_icons=true&cache_seconds=14400)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sztwo&layout=compact&theme=radical&include_all_commits=true&count_private=true?show_icons=true&cache_seconds=14400)](https://github.com/anuraghazra/github-readme-stats)
 
 ## about 2025 works
 
